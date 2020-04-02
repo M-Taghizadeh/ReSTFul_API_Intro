@@ -51,7 +51,8 @@ def modify_product(index):
             return {}, 404
     return {}, 400
 
-# 4:[DELETE] -------------------------------------------------------------------
+# -------------------------------------------------------------------
+# 4:[DELETE]
 @app.route("/<int:index>", methods=["DELETE"])
 def delete_product(index):
     try:
