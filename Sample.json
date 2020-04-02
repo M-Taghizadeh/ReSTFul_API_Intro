@@ -1,0 +1,19 @@
+{
+    "name": "Python",
+    "author": {
+      "firstName": "Guido",
+      "lastName": "Van Russom",
+      "age": null
+    },
+    "latestVersion": 3.8,
+    "age": 25,
+    "crossPlatform": true,
+    "users": [
+      "Instagram",
+      "Discuss",
+      "Netflix",
+      "Reddit",
+      "YouTube",
+      "Nokia"
+    ]
+}
